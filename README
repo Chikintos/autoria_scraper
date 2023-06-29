@@ -1,0 +1,5 @@
+1.Before running the bot, make sure that you have installed the libraries from requirements.txt or use a virtual environment (venv).
+
+2.Also, put your data in variables TOKEN (Line: 19) and GROUP_ID (Line: 20).
+
+That's all!
